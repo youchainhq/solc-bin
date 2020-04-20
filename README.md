@@ -1,2 +1,2 @@
 # solc-bin
-Binaries for you-solidity
+Current and historical (emscripten) binaries for YOU-Solidity
